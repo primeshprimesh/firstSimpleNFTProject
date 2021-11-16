@@ -1,5 +1,5 @@
-import React from "react";
 import { PageHeader } from "antd";
+import React from "react";
 
 // displays a page header
 
@@ -8,7 +8,7 @@ export default function Header() {
     <a href="https://github.com/austintgriffith/scaffold-eth" target="_blank" rel="noopener noreferrer">
       <PageHeader
         title="🏗 scaffold-eth"
-        subTitle="👩‍🔬 Buyer pays to mint NFT example"
+        subTitle="🖼 NFT example"
         style={{ cursor: "pointer" }}
       />
     </a>
